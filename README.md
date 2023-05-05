@@ -7,5 +7,6 @@ Dans un premier temps, notre start-up souhaite tester une solution de recommanda
 Nous utiliserons un jeu de données fournis à cette adresse :https://www.kaggle.com/gspmoreira/news-portal-user-interactions-by-globocom#clicks_sample.csv.
 
 Lien repo streamlit : https://github.com/reda76/-my-content-mvp-streamlit
+
 Lien repo azure fonction : https://github.com/reda76/-my-content-mvp-azure-fonction
 
